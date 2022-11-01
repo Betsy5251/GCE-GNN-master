@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wb415@175.178.157.233:6000 password">
+    <serverData>
+      <paths name="wb415@175.178.157.233:6000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wb415/zy/GCE-GNN-master/GCE-GNN-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
